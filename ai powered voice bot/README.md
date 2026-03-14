@@ -160,7 +160,7 @@ The training pipeline performs the following steps:
 Run training with:
 
 ```
-python train_intent_model.py
+python train_intent.py
 ```
 
 After training, the model is saved in the `models/` directory.
@@ -188,16 +188,6 @@ Your order cancellation request has been processed.
 ```
 
 The response is returned as an audio file.
-
----
-
-## Future Improvements
-
-* Multi-language support
-* More advanced dialogue management
-* Integration with real customer service databases
-* Deployment using Docker or cloud platforms
-* Real-time microphone input
 
 ---
 
