@@ -1,0 +1,13 @@
+fastapi
+openai-whisper
+uvicorn
+torch
+transformers
+torchaudio
+scikit-learn
+numpy
+pandas
+pydub
+soundfile
+jiwer
+gtts

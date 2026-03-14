@@ -1,0 +1,681 @@
+text,intent
+Cancel the order I placed for my recent order today,cancel_order
+"Please, Please cancel my order for my recent order right now",cancel_order
+"Hi, Please cancel my order for order 123 as soon as possible",cancel_order
+"Hi, I want to cancel my order if possible",cancel_order
+"Hello, Cancel the order I placed for my last purchase if possible",cancel_order
+"Please, I need to cancel an order for order 123",cancel_order
+"Hey, I want to cancel my order today",cancel_order
+I want to cancel my order for my recent order please,cancel_order
+Please cancel my order for my last purchase right now,cancel_order
+Cancel the order I placed for order 123 if possible,cancel_order
+"Hello, I need to cancel an order for my recent order",cancel_order
+"Hello, I want to cancel my order for my last purchase if possible",cancel_order
+"Kindly, Stop my order from being delivered right now",cancel_order
+"Hi, I need to cancel an order for order 123 if possible",cancel_order
+"Kindly, I want to cancel my order for the order I placed yesterday today",cancel_order
+"Hello, Stop my order from being delivered please",cancel_order
+"Hey, Please cancel my order for the order I placed yesterday if possible",cancel_order
+"Hello, Please cancel my order for my last purchase as soon as possible",cancel_order
+I need to cancel an order please,cancel_order
+"Kindly, I need to cancel an order for my recent order please",cancel_order
+Stop my order from being delivered for my recent order as soon as possible,cancel_order
+"Hi, I need to cancel an order for the order I placed yesterday right now",cancel_order
+"Hi, I want to cancel my order for my recent order right now",cancel_order
+"Hey, Please cancel my order for the order I placed yesterday today",cancel_order
+Cancel the order I placed if possible,cancel_order
+"Please, I need to cancel an order for order 123 if possible",cancel_order
+"Kindly, I need to cancel an order for my recent order today",cancel_order
+"Kindly, I want to cancel my order for my recent order right now",cancel_order
+"Kindly, Stop my order from being delivered for my recent order today",cancel_order
+"Hello, Stop my order from being delivered for order 123 if possible",cancel_order
+"Hey, I need to cancel an order for the order I placed yesterday right now",cancel_order
+"Kindly, Stop my order from being delivered if possible",cancel_order
+"Hey, I need to cancel an order for order 123 if possible",cancel_order
+"Hello, I want to cancel my order for the order I placed yesterday right now",cancel_order
+"Hey, I want to cancel my order please",cancel_order
+"Hi, I need to cancel an order for my recent order right now",cancel_order
+"Hello, Please cancel my order for the order I placed yesterday right now",cancel_order
+"Hi, Stop my order from being delivered for the order I placed yesterday",cancel_order
+"Hello, I need to cancel an order please",cancel_order
+"Hello, I need to cancel an order for my recent order please",cancel_order
+"Hello, Please cancel my order for the order I placed yesterday please",cancel_order
+"Kindly, I want to cancel my order for order 123 as soon as possible",cancel_order
+"Hi, Please cancel my order for order 123 if possible",cancel_order
+"Hey, Please cancel my order for the order I placed yesterday as soon as possible",cancel_order
+"Hello, Stop my order from being delivered for my recent order right now",cancel_order
+"Hello, Cancel the order I placed for the order I placed yesterday right now",cancel_order
+"Hello, I need to cancel an order for my last purchase today",cancel_order
+"Please, Stop my order from being delivered for my recent order right now",cancel_order
+"Hi, I want to cancel my order for order 123 as soon as possible",cancel_order
+Stop my order from being delivered for my recent order if possible,cancel_order
+"Please, Please cancel my order for my recent order if possible",cancel_order
+"Hey, Cancel the order I placed for the order I placed yesterday",cancel_order
+"Hey, Cancel the order I placed for my recent order if possible",cancel_order
+"Kindly, Please cancel my order for my last purchase please",cancel_order
+"Hi, I want to cancel my order for my last purchase today",cancel_order
+"Kindly, Stop my order from being delivered for my recent order if possible",cancel_order
+"Hey, Cancel the order I placed for order 123 if possible",cancel_order
+"Hey, I want to cancel my order for order 123 right now",cancel_order
+"Hey, Please cancel my order for my recent order as soon as possible",cancel_order
+"Hello, Stop my order from being delivered if possible",cancel_order
+"Hi, I need to cancel an order for my recent order if possible",cancel_order
+"Hello, Please cancel my order for my recent order today",cancel_order
+"Please, Please cancel my order for my last purchase please",cancel_order
+Stop my order from being delivered for the order I placed yesterday,cancel_order
+"Hi, I want to cancel my order for my last purchase right now",cancel_order
+"Please, Stop my order from being delivered for the order I placed yesterday",cancel_order
+"Hello, Stop my order from being delivered for my last purchase as soon as possible",cancel_order
+"Please, Please cancel my order for my last purchase today",cancel_order
+"Please, Stop my order from being delivered as soon as possible",cancel_order
+I need to cancel an order for order 123 today,cancel_order
+Stop my order from being delivered for my recent order today,cancel_order
+"Hey, Cancel the order I placed for my last purchase right now",cancel_order
+"Kindly, Cancel the order I placed for the order I placed yesterday as soon as possible",cancel_order
+"Hi, Stop my order from being delivered for the order I placed yesterday as soon as possible",cancel_order
+"Hi, Cancel the order I placed for my last purchase as soon as possible",cancel_order
+"Hello, I need to cancel an order for the order I placed yesterday",cancel_order
+"Hello, Please cancel my order for my last purchase",cancel_order
+"Hey, Please cancel my order for the order I placed yesterday",cancel_order
+"Hello, Please cancel my order for my last purchase please",cancel_order
+I need to cancel an order for the order I placed yesterday,cancel_order
+"Hey, I want to cancel my order if possible",cancel_order
+"Kindly, I need to cancel an order for the order I placed yesterday please",cancel_order
+I need to cancel an order for the order I placed yesterday if possible,cancel_order
+"Hello, Stop my order from being delivered for my recent order today",cancel_order
+"Kindly, I want to cancel my order as soon as possible",cancel_order
+"Kindly, Can I change where my order is delivered for the order I placed yesterday please",change_address
+"Hello, I want to change my delivery address for order 123 if possible",change_address
+Can I change where my order is delivered for the order I placed yesterday as soon as possible,change_address
+"Kindly, I entered the wrong address for order 123 if possible",change_address
+"Hi, I entered the wrong address",change_address
+"Hey, I want to change my delivery address for the order I placed yesterday if possible",change_address
+"Kindly, Update the address for my order for the order I placed yesterday if possible",change_address
+"Hello, Please update my shipping address for the order I placed yesterday please",change_address
+Update the address for my order for my last purchase,change_address
+"Hey, Can I change where my order is delivered for my recent order as soon as possible",change_address
+"Hi, I want to change my delivery address for my recent order if possible",change_address
+"Hello, Update the address for my order for order 123 as soon as possible",change_address
+"Hello, Update the address for my order for order 123",change_address
+"Hello, Update the address for my order for my recent order today",change_address
+Can I change where my order is delivered for my last purchase if possible,change_address
+"Hey, Please update my shipping address for my last purchase",change_address
+"Please, Update the address for my order as soon as possible",change_address
+"Hey, I entered the wrong address today",change_address
+"Kindly, Update the address for my order for order 123 please",change_address
+"Hi, I want to change my delivery address for my recent order as soon as possible",change_address
+"Kindly, Please update my shipping address for the order I placed yesterday please",change_address
+"Hey, I want to change my delivery address for order 123 if possible",change_address
+I want to change my delivery address for order 123 please,change_address
+"Kindly, I entered the wrong address",change_address
+"Hello, I entered the wrong address for my last purchase if possible",change_address
+"Hey, I entered the wrong address for my last purchase right now",change_address
+I entered the wrong address for the order I placed yesterday today,change_address
+Can I change where my order is delivered right now,change_address
+"Please, Update the address for my order for my last purchase as soon as possible",change_address
+"Please, Can I change where my order is delivered for my recent order as soon as possible",change_address
+"Kindly, Update the address for my order for my recent order today",change_address
+"Hey, Can I change where my order is delivered for my last purchase",change_address
+"Hey, Update the address for my order if possible",change_address
+"Please, I want to change my delivery address for order 123",change_address
+"Hi, Please update my shipping address for order 123 as soon as possible",change_address
+"Hey, Update the address for my order for the order I placed yesterday as soon as possible",change_address
+"Hi, Can I change where my order is delivered for order 123 today",change_address
+"Kindly, Can I change where my order is delivered for the order I placed yesterday as soon as possible",change_address
+"Kindly, Can I change where my order is delivered for my recent order please",change_address
+Can I change where my order is delivered for my last purchase right now,change_address
+"Hi, I want to change my delivery address for order 123 if possible",change_address
+"Hello, Can I change where my order is delivered for my recent order please",change_address
+"Please, Update the address for my order for the order I placed yesterday as soon as possible",change_address
+"Hey, Update the address for my order for my last purchase right now",change_address
+"Please, I entered the wrong address for my recent order",change_address
+"Hi, Update the address for my order for order 123 today",change_address
+Update the address for my order for the order I placed yesterday if possible,change_address
+"Please, I entered the wrong address for my last purchase today",change_address
+"Hi, Can I change where my order is delivered today",change_address
+"Hey, Update the address for my order for my last purchase if possible",change_address
+Please update my shipping address today,change_address
+"Hi, Can I change where my order is delivered for my last purchase if possible",change_address
+"Kindly, I entered the wrong address for order 123 right now",change_address
+"Please, I want to change my delivery address",change_address
+"Kindly, I entered the wrong address for my last purchase today",change_address
+"Kindly, Update the address for my order for my recent order right now",change_address
+"Hey, Please update my shipping address for my last purchase if possible",change_address
+"Hi, Please update my shipping address for the order I placed yesterday as soon as possible",change_address
+I want to change my delivery address for my recent order if possible,change_address
+"Hello, I want to change my delivery address for order 123 as soon as possible",change_address
+"Kindly, I entered the wrong address right now",change_address
+"Hi, Can I change where my order is delivered for my recent order if possible",change_address
+"Please, Please update my shipping address for order 123 if possible",change_address
+"Hey, Can I change where my order is delivered for my recent order please",change_address
+"Please, Update the address for my order for the order I placed yesterday",change_address
+"Kindly, I want to change my delivery address today",change_address
+"Please, Please update my shipping address for order 123 please",change_address
+"Kindly, Please update my shipping address for my recent order as soon as possible",change_address
+"Kindly, Can I change where my order is delivered for the order I placed yesterday today",change_address
+"Hey, Update the address for my order right now",change_address
+"Please, Update the address for my order for the order I placed yesterday if possible",change_address
+"Hey, I want to change my delivery address for the order I placed yesterday today",change_address
+"Please, Update the address for my order for order 123 if possible",change_address
+"Please, I entered the wrong address for my last purchase",change_address
+I want to change my delivery address for the order I placed yesterday right now,change_address
+"Please, I want to change my delivery address for my last purchase right now",change_address
+"Please, I want to change my delivery address today",change_address
+Please update my shipping address for the order I placed yesterday right now,change_address
+Can I change where my order is delivered if possible,change_address
+"Please, Please update my shipping address for my last purchase please",change_address
+"Hi, Update the address for my order for my last purchase",change_address
+"Please, I entered the wrong address for the order I placed yesterday as soon as possible",change_address
+"Hi, Can I change where my order is delivered for my last purchase as soon as possible",change_address
+"Hello, I entered the wrong address",change_address
+I want to change my delivery address for the order I placed yesterday,change_address
+"Hey, I want to complain about my order for my recent order if possible",complaint
+"Hey, This product is damaged for the order I placed yesterday today",complaint
+"Please, This product is damaged for order 123 right now",complaint
+"Hi, This product is damaged for my recent order today",complaint
+"Hello, I want to complain about my order for my last purchase right now",complaint
+"Hi, This product is damaged for the order I placed yesterday please",complaint
+I have a complaint about my purchase right now,complaint
+"Hi, I am unhappy with the service for my last purchase as soon as possible",complaint
+"Hey, I am unhappy with the service for my recent order right now",complaint
+"Hey, I want to complain about my order for my recent order as soon as possible",complaint
+"Hey, I am unhappy with the service for order 123 today",complaint
+"Hello, This product is damaged for order 123 as soon as possible",complaint
+"Kindly, I am unhappy with the service for my recent order please",complaint
+"Hello, The item I received is broken for the order I placed yesterday today",complaint
+"Kindly, I want to complain about my order for my recent order right now",complaint
+"Kindly, I am unhappy with the service for the order I placed yesterday",complaint
+"Hello, The item I received is broken for the order I placed yesterday please",complaint
+"Hello, I am unhappy with the service for the order I placed yesterday right now",complaint
+"Please, I am unhappy with the service as soon as possible",complaint
+"Hello, I want to complain about my order today",complaint
+"Hello, I want to complain about my order for order 123 please",complaint
+"Hey, I have a complaint about my purchase for the order I placed yesterday",complaint
+"Hey, The item I received is broken for the order I placed yesterday today",complaint
+I want to complain about my order for my recent order as soon as possible,complaint
+"Kindly, I have a complaint about my purchase for the order I placed yesterday right now",complaint
+"Please, This product is damaged for the order I placed yesterday today",complaint
+"Hi, The item I received is broken right now",complaint
+"Please, I want to complain about my order for my last purchase as soon as possible",complaint
+"Kindly, I have a complaint about my purchase for my last purchase if possible",complaint
+"Hey, I have a complaint about my purchase for order 123 if possible",complaint
+"Hey, I am unhappy with the service for the order I placed yesterday right now",complaint
+The item I received is broken for order 123 if possible,complaint
+"Hey, I am unhappy with the service as soon as possible",complaint
+"Kindly, The item I received is broken for my last purchase today",complaint
+"Kindly, I am unhappy with the service for the order I placed yesterday today",complaint
+"Hi, This product is damaged for order 123 as soon as possible",complaint
+"Hey, The item I received is broken for order 123 today",complaint
+"Hi, I want to complain about my order for my last purchase if possible",complaint
+"Please, I have a complaint about my purchase as soon as possible",complaint
+"Kindly, I want to complain about my order for order 123 please",complaint
+"Hi, This product is damaged right now",complaint
+"Please, This product is damaged for my last purchase",complaint
+"Please, I want to complain about my order for my last purchase if possible",complaint
+I want to complain about my order for the order I placed yesterday as soon as possible,complaint
+"Please, This product is damaged for the order I placed yesterday right now",complaint
+"Please, I want to complain about my order for my recent order please",complaint
+"Hello, The item I received is broken for the order I placed yesterday right now",complaint
+"Hi, I have a complaint about my purchase for the order I placed yesterday if possible",complaint
+"Hi, I want to complain about my order today",complaint
+"Please, I am unhappy with the service for my recent order right now",complaint
+"Hello, I have a complaint about my purchase today",complaint
+"Please, I am unhappy with the service for the order I placed yesterday as soon as possible",complaint
+The item I received is broken for the order I placed yesterday today,complaint
+I want to complain about my order for my last purchase today,complaint
+"Please, I am unhappy with the service for my recent order today",complaint
+"Hey, The item I received is broken for my recent order as soon as possible",complaint
+"Hello, This product is damaged for the order I placed yesterday please",complaint
+"Kindly, I want to complain about my order for my recent order",complaint
+"Hello, I want to complain about my order for my last purchase today",complaint
+"Please, This product is damaged please",complaint
+"Hi, This product is damaged for my last purchase if possible",complaint
+"Please, I have a complaint about my purchase for my recent order right now",complaint
+"Please, I want to complain about my order for order 123 if possible",complaint
+"Hi, I have a complaint about my purchase for my recent order right now",complaint
+I want to complain about my order for my recent order please,complaint
+"Kindly, I want to complain about my order for my last purchase please",complaint
+"Hi, I am unhappy with the service for my last purchase today",complaint
+"Please, I want to complain about my order for the order I placed yesterday please",complaint
+"Hey, I have a complaint about my purchase for the order I placed yesterday right now",complaint
+"Hi, I want to complain about my order as soon as possible",complaint
+"Please, This product is damaged for my recent order if possible",complaint
+"Kindly, I have a complaint about my purchase for my recent order today",complaint
+"Hi, I have a complaint about my purchase right now",complaint
+"Please, I am unhappy with the service for my last purchase as soon as possible",complaint
+"Please, The item I received is broken for my last purchase",complaint
+"Hi, The item I received is broken for the order I placed yesterday today",complaint
+"Please, I am unhappy with the service for the order I placed yesterday please",complaint
+"Hey, I want to complain about my order if possible",complaint
+"Hello, I have a complaint about my purchase for my last purchase please",complaint
+"Hi, I have a complaint about my purchase if possible",complaint
+I have a complaint about my purchase for my last purchase if possible,complaint
+"Kindly, The item I received is broken for my recent order",complaint
+"Hey, The item I received is broken today",complaint
+"Hey, I have a complaint about my purchase for my last purchase as soon as possible",complaint
+"Hi, This product is damaged for order 123 if possible",complaint
+The package hasn't arrived yet for my recent order today,delivery_delay
+My shipment is taking too long for my last purchase today,delivery_delay
+"Hello, My delivery is late for order 123 as soon as possible",delivery_delay
+"Hi, My shipment is taking too long for my recent order right now",delivery_delay
+"Hi, Delivery seems delayed today",delivery_delay
+"Please, Delivery seems delayed for my recent order if possible",delivery_delay
+"Hello, The package hasn't arrived yet for order 123 today",delivery_delay
+"Kindly, My shipment is taking too long for order 123 right now",delivery_delay
+"Kindly, The package hasn't arrived yet for my last purchase if possible",delivery_delay
+"Hi, Delivery seems delayed for the order I placed yesterday please",delivery_delay
+"Hey, My delivery is late for the order I placed yesterday today",delivery_delay
+"Hey, Delivery seems delayed for order 123 please",delivery_delay
+"Hi, The package hasn't arrived yet for the order I placed yesterday right now",delivery_delay
+Why is my order delayed for my last purchase please,delivery_delay
+"Hello, My delivery is late for order 123",delivery_delay
+"Please, Why is my order delayed for my recent order as soon as possible",delivery_delay
+"Hey, My delivery is late please",delivery_delay
+"Hello, Why is my order delayed for the order I placed yesterday if possible",delivery_delay
+"Hi, The package hasn't arrived yet for order 123 if possible",delivery_delay
+"Please, Delivery seems delayed for my last purchase",delivery_delay
+"Hello, My delivery is late for my recent order today",delivery_delay
+"Kindly, Delivery seems delayed for my last purchase today",delivery_delay
+"Hello, The package hasn't arrived yet for my recent order today",delivery_delay
+"Hi, Why is my order delayed for the order I placed yesterday if possible",delivery_delay
+The package hasn't arrived yet for order 123 as soon as possible,delivery_delay
+"Please, My shipment is taking too long for order 123 as soon as possible",delivery_delay
+My shipment is taking too long please,delivery_delay
+"Kindly, The package hasn't arrived yet for my recent order as soon as possible",delivery_delay
+"Please, My shipment is taking too long for my recent order today",delivery_delay
+"Hey, My delivery is late for my recent order if possible",delivery_delay
+"Hello, My shipment is taking too long for order 123 if possible",delivery_delay
+"Hi, Why is my order delayed for my last purchase right now",delivery_delay
+"Hey, The package hasn't arrived yet for my last purchase",delivery_delay
+"Please, Why is my order delayed for my recent order please",delivery_delay
+"Hey, My delivery is late for my recent order",delivery_delay
+"Kindly, Why is my order delayed right now",delivery_delay
+"Hello, The package hasn't arrived yet for my last purchase",delivery_delay
+"Hi, My delivery is late as soon as possible",delivery_delay
+"Please, The package hasn't arrived yet for my recent order please",delivery_delay
+"Please, The package hasn't arrived yet for my recent order right now",delivery_delay
+"Hey, Why is my order delayed for my recent order as soon as possible",delivery_delay
+"Please, Delivery seems delayed for the order I placed yesterday please",delivery_delay
+"Please, My shipment is taking too long for order 123 please",delivery_delay
+"Hi, My delivery is late for order 123 today",delivery_delay
+"Please, My delivery is late for order 123 if possible",delivery_delay
+Why is my order delayed for the order I placed yesterday as soon as possible,delivery_delay
+"Hi, My shipment is taking too long for order 123 as soon as possible",delivery_delay
+"Kindly, Delivery seems delayed for order 123",delivery_delay
+"Please, My delivery is late if possible",delivery_delay
+"Hello, The package hasn't arrived yet for my recent order",delivery_delay
+"Hi, The package hasn't arrived yet",delivery_delay
+"Kindly, My shipment is taking too long right now",delivery_delay
+"Hello, The package hasn't arrived yet for my last purchase right now",delivery_delay
+"Hey, Delivery seems delayed for my recent order",delivery_delay
+"Hello, Delivery seems delayed for the order I placed yesterday today",delivery_delay
+The package hasn't arrived yet for order 123 today,delivery_delay
+"Please, Delivery seems delayed for my last purchase today",delivery_delay
+"Hey, The package hasn't arrived yet for my recent order as soon as possible",delivery_delay
+"Kindly, Delivery seems delayed for the order I placed yesterday if possible",delivery_delay
+"Please, Delivery seems delayed for my recent order today",delivery_delay
+"Hey, Why is my order delayed for the order I placed yesterday right now",delivery_delay
+"Hello, My delivery is late please",delivery_delay
+"Hello, My delivery is late for order 123 please",delivery_delay
+"Hello, My shipment is taking too long right now",delivery_delay
+"Hey, Why is my order delayed for order 123 as soon as possible",delivery_delay
+"Hello, My shipment is taking too long for the order I placed yesterday right now",delivery_delay
+"Kindly, Delivery seems delayed for order 123 today",delivery_delay
+"Kindly, Why is my order delayed for my recent order right now",delivery_delay
+"Hey, Why is my order delayed for the order I placed yesterday if possible",delivery_delay
+"Hey, My shipment is taking too long for order 123 today",delivery_delay
+My delivery is late for my last purchase please,delivery_delay
+"Please, My shipment is taking too long as soon as possible",delivery_delay
+"Please, My shipment is taking too long for the order I placed yesterday as soon as possible",delivery_delay
+"Hey, The package hasn't arrived yet for order 123 right now",delivery_delay
+"Hey, Delivery seems delayed for my last purchase please",delivery_delay
+"Please, My delivery is late for my last purchase if possible",delivery_delay
+"Hi, The package hasn't arrived yet for my recent order please",delivery_delay
+"Please, My shipment is taking too long for my last purchase if possible",delivery_delay
+"Hello, My shipment is taking too long as soon as possible",delivery_delay
+"Hello, Delivery seems delayed for my recent order",delivery_delay
+"Please, The package hasn't arrived yet for my last purchase today",delivery_delay
+"Please, The package hasn't arrived yet right now",delivery_delay
+My delivery is late for the order I placed yesterday today,delivery_delay
+"Hey, Why is my order delayed for my recent order today",delivery_delay
+"Hey, The package hasn't arrived yet for my last purchase today",delivery_delay
+"Kindly, Can you check my order status",order_status
+"Hi, What is the status of my order for the order I placed yesterday please",order_status
+What is the status of my order if possible,order_status
+Track my order for my last purchase as soon as possible,order_status
+"Please, Where is my order for my recent order if possible",order_status
+"Kindly, Has my order shipped for my last purchase if possible",order_status
+"Please, Track my order for my last purchase",order_status
+"Hey, Track my order for order 123 as soon as possible",order_status
+"Please, Where is my order for my last purchase please",order_status
+"Hello, Track my order for order 123 please",order_status
+"Hi, Where is my order for my recent order",order_status
+"Kindly, What is the status of my order for order 123 please",order_status
+"Kindly, What is the status of my order for my recent order if possible",order_status
+"Please, Can you check my order status right now",order_status
+Can you check my order status for the order I placed yesterday,order_status
+"Please, Has my order shipped for my recent order please",order_status
+"Hi, What is the status of my order for the order I placed yesterday",order_status
+"Hey, Track my order for my last purchase right now",order_status
+"Hi, Track my order for my recent order please",order_status
+"Please, What is the status of my order for the order I placed yesterday right now",order_status
+"Hello, Has my order shipped for the order I placed yesterday",order_status
+"Hey, Can you check my order status",order_status
+"Please, Has my order shipped please",order_status
+"Hey, Where is my order for the order I placed yesterday if possible",order_status
+Where is my order for my recent order today,order_status
+"Hello, Track my order for my recent order please",order_status
+"Please, Can you check my order status for the order I placed yesterday",order_status
+"Hi, Track my order for my recent order",order_status
+Has my order shipped for my last purchase right now,order_status
+Where is my order for the order I placed yesterday as soon as possible,order_status
+"Hi, What is the status of my order if possible",order_status
+"Hi, Has my order shipped for order 123",order_status
+What is the status of my order for the order I placed yesterday as soon as possible,order_status
+"Hello, Can you check my order status for order 123",order_status
+"Hi, Where is my order for my last purchase right now",order_status
+"Hello, Can you check my order status for my last purchase",order_status
+"Hi, What is the status of my order for my last purchase right now",order_status
+"Hello, Has my order shipped for my recent order if possible",order_status
+"Hey, Has my order shipped right now",order_status
+"Hello, What is the status of my order right now",order_status
+"Hello, What is the status of my order for the order I placed yesterday right now",order_status
+"Please, Can you check my order status for my recent order please",order_status
+"Kindly, Track my order for my last purchase if possible",order_status
+"Kindly, Track my order for my last purchase please",order_status
+Has my order shipped for my last purchase,order_status
+"Hello, Has my order shipped for order 123",order_status
+"Please, Can you check my order status for my recent order as soon as possible",order_status
+"Hello, Where is my order for my recent order as soon as possible",order_status
+Has my order shipped for my recent order today,order_status
+"Kindly, Where is my order for my recent order as soon as possible",order_status
+"Kindly, Can you check my order status for my last purchase right now",order_status
+"Hello, Can you check my order status as soon as possible",order_status
+"Kindly, Track my order please",order_status
+"Hello, What is the status of my order for my last purchase please",order_status
+"Hi, Track my order for my last purchase right now",order_status
+"Hello, Where is my order for my last purchase if possible",order_status
+"Hello, Can you check my order status for order 123 as soon as possible",order_status
+"Please, Has my order shipped for my recent order if possible",order_status
+"Please, Can you check my order status for my last purchase",order_status
+"Please, What is the status of my order for order 123 today",order_status
+"Hello, Track my order for the order I placed yesterday right now",order_status
+"Please, Where is my order for order 123 please",order_status
+"Please, Can you check my order status for the order I placed yesterday right now",order_status
+"Kindly, What is the status of my order for my recent order",order_status
+"Please, Where is my order for order 123",order_status
+"Please, What is the status of my order for my last purchase",order_status
+"Please, Can you check my order status please",order_status
+"Hello, Can you check my order status for my last purchase right now",order_status
+"Please, Where is my order for order 123 today",order_status
+"Hey, Where is my order for the order I placed yesterday right now",order_status
+"Hey, Where is my order for the order I placed yesterday please",order_status
+"Hey, Has my order shipped if possible",order_status
+"Hi, Has my order shipped if possible",order_status
+"Hello, Can you check my order status for my recent order please",order_status
+"Hello, Can you check my order status for order 123 right now",order_status
+"Please, Where is my order right now",order_status
+"Hey, Track my order for the order I placed yesterday",order_status
+Can you check my order status for my recent order today,order_status
+"Hey, Where is my order for my last purchase",order_status
+"Kindly, Track my order",order_status
+"Please, Track my order for my recent order right now",order_status
+"Please, Has my order shipped for the order I placed yesterday as soon as possible",order_status
+"Hey, Has my order shipped for my last purchase if possible",order_status
+"Hey, Where is my order as soon as possible",order_status
+"Hi, Has my order shipped right now",order_status
+"Kindly, I was charged twice for the order I placed yesterday right now",payment_issue
+"Hey, I have a billing issue for order 123",payment_issue
+"Hi, Payment didn't go through for my recent order right now",payment_issue
+"Hi, Payment didn't go through for my last purchase as soon as possible",payment_issue
+"Hi, There is a problem with my payment for my last purchase",payment_issue
+"Hey, My payment failed for order 123 if possible",payment_issue
+"Kindly, I have a billing issue for my last purchase if possible",payment_issue
+"Hello, I have a billing issue for order 123 right now",payment_issue
+"Hey, My payment failed for the order I placed yesterday",payment_issue
+"Hey, There is a problem with my payment for the order I placed yesterday right now",payment_issue
+"Please, I was charged twice for my last purchase right now",payment_issue
+"Hi, Payment didn't go through if possible",payment_issue
+"Hey, Payment didn't go through if possible",payment_issue
+"Kindly, There is a problem with my payment for my last purchase",payment_issue
+"Hi, My payment failed",payment_issue
+I have a billing issue for my last purchase right now,payment_issue
+"Hello, I was charged twice if possible",payment_issue
+"Kindly, I was charged twice for my recent order right now",payment_issue
+"Hi, There is a problem with my payment for order 123 please",payment_issue
+"Kindly, There is a problem with my payment for my recent order if possible",payment_issue
+"Hi, I was charged twice for the order I placed yesterday as soon as possible",payment_issue
+"Please, I have a billing issue if possible",payment_issue
+"Hi, I have a billing issue for my last purchase if possible",payment_issue
+"Hello, There is a problem with my payment for order 123 please",payment_issue
+"Hi, There is a problem with my payment for order 123 if possible",payment_issue
+"Please, Payment didn't go through for my recent order",payment_issue
+"Hi, I was charged twice today",payment_issue
+"Kindly, I was charged twice as soon as possible",payment_issue
+"Hi, Payment didn't go through for the order I placed yesterday",payment_issue
+"Please, I have a billing issue for order 123 if possible",payment_issue
+"Hey, Payment didn't go through for order 123 if possible",payment_issue
+"Hello, My payment failed for my recent order right now",payment_issue
+"Hi, I was charged twice for my recent order today",payment_issue
+"Hey, I was charged twice for my last purchase",payment_issue
+"Hello, I have a billing issue for the order I placed yesterday please",payment_issue
+"Hello, I was charged twice please",payment_issue
+"Kindly, There is a problem with my payment for my recent order right now",payment_issue
+"Please, I was charged twice",payment_issue
+I was charged twice for the order I placed yesterday today,payment_issue
+Payment didn't go through for the order I placed yesterday if possible,payment_issue
+"Please, I have a billing issue for my last purchase if possible",payment_issue
+"Kindly, My payment failed for my recent order",payment_issue
+"Kindly, I have a billing issue for the order I placed yesterday as soon as possible",payment_issue
+"Kindly, I was charged twice for order 123 as soon as possible",payment_issue
+"Hi, There is a problem with my payment for my last purchase right now",payment_issue
+"Hey, I was charged twice for the order I placed yesterday right now",payment_issue
+"Hi, I have a billing issue for my last purchase please",payment_issue
+"Please, I was charged twice for order 123 as soon as possible",payment_issue
+"Hi, I have a billing issue for my last purchase",payment_issue
+"Hey, Payment didn't go through for my recent order please",payment_issue
+"Hey, I was charged twice for order 123 right now",payment_issue
+"Hello, My payment failed for order 123 right now",payment_issue
+"Hey, My payment failed for my last purchase right now",payment_issue
+"Please, My payment failed right now",payment_issue
+"Please, I have a billing issue",payment_issue
+My payment failed for the order I placed yesterday right now,payment_issue
+Payment didn't go through for my recent order today,payment_issue
+There is a problem with my payment for order 123 today,payment_issue
+"Kindly, My payment failed for the order I placed yesterday as soon as possible",payment_issue
+"Hello, There is a problem with my payment please",payment_issue
+"Hi, There is a problem with my payment today",payment_issue
+"Hey, I have a billing issue for order 123 please",payment_issue
+"Please, My payment failed today",payment_issue
+Payment didn't go through for order 123 right now,payment_issue
+I have a billing issue for my last purchase if possible,payment_issue
+"Hello, My payment failed please",payment_issue
+"Hey, I have a billing issue for my last purchase please",payment_issue
+"Hello, My payment failed for my last purchase today",payment_issue
+"Hi, My payment failed for the order I placed yesterday",payment_issue
+"Kindly, I have a billing issue",payment_issue
+"Kindly, I was charged twice for my last purchase",payment_issue
+Payment didn't go through for the order I placed yesterday today,payment_issue
+"Kindly, There is a problem with my payment for order 123 right now",payment_issue
+"Hey, My payment failed right now",payment_issue
+"Hey, I was charged twice for my recent order right now",payment_issue
+"Hey, There is a problem with my payment if possible",payment_issue
+"Please, My payment failed for the order I placed yesterday please",payment_issue
+"Hello, I was charged twice as soon as possible",payment_issue
+"Hi, I was charged twice for my last purchase as soon as possible",payment_issue
+"Kindly, There is a problem with my payment for my last purchase as soon as possible",payment_issue
+"Hello, My payment failed for my recent order as soon as possible",payment_issue
+"Kindly, I have a billing issue for my last purchase today",payment_issue
+"Please, I was charged twice for order 123 please",payment_issue
+"Hey, Payment didn't go through for my last purchase please",payment_issue
+"Please, Payment didn't go through for my last purchase today",payment_issue
+How do I get a refund for the order I placed yesterday as soon as possible,refund_request
+"Hello, I want a refund for my last purchase if possible",refund_request
+"Hi, How do I get a refund as soon as possible",refund_request
+"Hi, Please refund my order for the order I placed yesterday please",refund_request
+"Kindly, Please refund my order for my last purchase as soon as possible",refund_request
+"Hello, How do I get a refund for order 123 if possible",refund_request
+I want a refund for my last purchase today,refund_request
+"Kindly, I need to return this item for my last purchase as soon as possible",refund_request
+"Hi, I want a refund for order 123 as soon as possible",refund_request
+"Please, Please refund my order for order 123 right now",refund_request
+I need to return this item for the order I placed yesterday,refund_request
+"Please, I want a refund for the order I placed yesterday please",refund_request
+"Hi, Requesting a refund for my purchase for order 123 please",refund_request
+"Hello, Please refund my order for the order I placed yesterday",refund_request
+"Please, I need to return this item for my last purchase right now",refund_request
+"Kindly, How do I get a refund for my last purchase today",refund_request
+"Hi, Requesting a refund for my purchase for order 123 today",refund_request
+"Hey, I need to return this item for my recent order",refund_request
+"Please, Requesting a refund for my purchase for my last purchase as soon as possible",refund_request
+Please refund my order for the order I placed yesterday today,refund_request
+"Please, I need to return this item for the order I placed yesterday today",refund_request
+"Hello, Please refund my order for order 123 right now",refund_request
+"Hello, How do I get a refund for my last purchase right now",refund_request
+"Hi, I want a refund for the order I placed yesterday",refund_request
+"Hey, I want a refund for the order I placed yesterday",refund_request
+"Hello, I need to return this item for my recent order if possible",refund_request
+"Hey, I want a refund if possible",refund_request
+"Hey, I want a refund for my recent order today",refund_request
+"Hey, I need to return this item for my last purchase as soon as possible",refund_request
+"Hi, Requesting a refund for my purchase for my recent order right now",refund_request
+"Please, How do I get a refund for order 123 right now",refund_request
+"Please, I need to return this item for my last purchase",refund_request
+"Hi, I want a refund for my last purchase right now",refund_request
+"Kindly, How do I get a refund for the order I placed yesterday",refund_request
+"Hi, Please refund my order for my last purchase right now",refund_request
+"Hey, I want a refund for order 123 please",refund_request
+"Hi, Requesting a refund for my purchase right now",refund_request
+Please refund my order right now,refund_request
+How do I get a refund for my last purchase as soon as possible,refund_request
+"Hello, Requesting a refund for my purchase for the order I placed yesterday please",refund_request
+"Hello, Please refund my order please",refund_request
+"Please, How do I get a refund if possible",refund_request
+"Please, I need to return this item",refund_request
+"Hello, Requesting a refund for my purchase for my recent order right now",refund_request
+"Please, Please refund my order for my last purchase if possible",refund_request
+"Kindly, Requesting a refund for my purchase for my last purchase right now",refund_request
+"Hi, Requesting a refund for my purchase for order 123 right now",refund_request
+"Hello, I want a refund for my recent order today",refund_request
+"Hi, How do I get a refund for order 123 today",refund_request
+"Hello, I need to return this item for order 123 as soon as possible",refund_request
+"Please, I need to return this item for the order I placed yesterday please",refund_request
+How do I get a refund for my last purchase right now,refund_request
+"Please, Requesting a refund for my purchase for the order I placed yesterday right now",refund_request
+"Hello, How do I get a refund for my recent order please",refund_request
+"Hello, Please refund my order for the order I placed yesterday please",refund_request
+"Hello, Please refund my order for my last purchase right now",refund_request
+Requesting a refund for my purchase for order 123 right now,refund_request
+"Kindly, I need to return this item for the order I placed yesterday",refund_request
+"Kindly, I want a refund for my last purchase if possible",refund_request
+"Please, Please refund my order for the order I placed yesterday today",refund_request
+"Kindly, I want a refund today",refund_request
+"Please, I need to return this item for order 123 if possible",refund_request
+"Kindly, Please refund my order today",refund_request
+"Hi, I want a refund for my recent order as soon as possible",refund_request
+"Hey, I need to return this item for my last purchase please",refund_request
+"Please, I want a refund for my recent order please",refund_request
+"Hi, Requesting a refund for my purchase for the order I placed yesterday if possible",refund_request
+"Hey, Please refund my order",refund_request
+"Kindly, I need to return this item for my recent order if possible",refund_request
+"Please, How do I get a refund for the order I placed yesterday today",refund_request
+"Please, I need to return this item for order 123 today",refund_request
+Requesting a refund for my purchase for the order I placed yesterday,refund_request
+"Kindly, I need to return this item for order 123 today",refund_request
+"Hey, Please refund my order for my recent order please",refund_request
+"Hello, I need to return this item for my last purchase today",refund_request
+"Hey, Please refund my order for order 123 today",refund_request
+"Kindly, I need to return this item for the order I placed yesterday as soon as possible",refund_request
+"Hello, I need to return this item for my last purchase please",refund_request
+"Hi, Please refund my order please",refund_request
+"Hi, I need to return this item for my recent order",refund_request
+"Hey, How do I get a refund for the order I placed yesterday if possible",refund_request
+"Hi, Requesting a refund for my purchase for order 123",refund_request
+"Hey, Requesting a refund for my purchase if possible",refund_request
+"Kindly, Please refund my order for the order I placed yesterday if possible",refund_request
+"Please, I need to return this item for my recent order right now",refund_request
+I want to talk to a human for the order I placed yesterday as soon as possible,speak_to_agent
+"Hi, Let me speak to an agent for the order I placed yesterday as soon as possible",speak_to_agent
+"Hey, Can I talk to a representative for the order I placed yesterday if possible",speak_to_agent
+"Hello, I need human assistance for my recent order today",speak_to_agent
+"Please, I need human assistance right now",speak_to_agent
+Connect me to customer support for my recent order if possible,speak_to_agent
+"Hello, I want to talk to a human for my recent order as soon as possible",speak_to_agent
+"Hi, Let me speak to an agent for my last purchase if possible",speak_to_agent
+I want to talk to a human for the order I placed yesterday today,speak_to_agent
+"Hello, Connect me to customer support for my last purchase",speak_to_agent
+"Kindly, I want to talk to a human for the order I placed yesterday please",speak_to_agent
+"Kindly, Let me speak to an agent for order 123 as soon as possible",speak_to_agent
+"Hey, Can I talk to a representative for my recent order if possible",speak_to_agent
+"Hi, I want to talk to a human for my last purchase",speak_to_agent
+"Hi, I want to talk to a human for my recent order if possible",speak_to_agent
+"Hi, I want to talk to a human for the order I placed yesterday as soon as possible",speak_to_agent
+"Hey, I want to talk to a human for my last purchase as soon as possible",speak_to_agent
+"Hello, Let me speak to an agent if possible",speak_to_agent
+"Hello, Can I talk to a representative for my recent order if possible",speak_to_agent
+"Hello, Let me speak to an agent for my last purchase today",speak_to_agent
+"Hey, Connect me to customer support for my last purchase please",speak_to_agent
+Can I talk to a representative for order 123 as soon as possible,speak_to_agent
+"Hey, Can I talk to a representative for my last purchase as soon as possible",speak_to_agent
+I need human assistance for the order I placed yesterday if possible,speak_to_agent
+Can I talk to a representative for order 123 please,speak_to_agent
+I need human assistance for my last purchase if possible,speak_to_agent
+"Hello, I want to talk to a human for my last purchase please",speak_to_agent
+Connect me to customer support right now,speak_to_agent
+"Kindly, Let me speak to an agent for my recent order as soon as possible",speak_to_agent
+"Hello, Can I talk to a representative for order 123 please",speak_to_agent
+I need human assistance for order 123 right now,speak_to_agent
+"Hello, I want to talk to a human for my recent order if possible",speak_to_agent
+"Hi, Connect me to customer support for my last purchase as soon as possible",speak_to_agent
+"Hi, Connect me to customer support for my recent order please",speak_to_agent
+"Hello, Can I talk to a representative for my last purchase",speak_to_agent
+I want to talk to a human for my recent order today,speak_to_agent
+"Hey, Connect me to customer support for order 123",speak_to_agent
+"Hey, Let me speak to an agent for my last purchase today",speak_to_agent
+"Please, Can I talk to a representative for the order I placed yesterday right now",speak_to_agent
+"Hey, Connect me to customer support for the order I placed yesterday if possible",speak_to_agent
+"Hello, I need human assistance for the order I placed yesterday today",speak_to_agent
+Connect me to customer support for the order I placed yesterday as soon as possible,speak_to_agent
+"Hey, Can I talk to a representative for my recent order right now",speak_to_agent
+"Hello, I need human assistance if possible",speak_to_agent
+"Hey, Let me speak to an agent as soon as possible",speak_to_agent
+"Please, Let me speak to an agent today",speak_to_agent
+"Hello, I need human assistance for my last purchase as soon as possible",speak_to_agent
+I need human assistance for the order I placed yesterday as soon as possible,speak_to_agent
+"Hey, I need human assistance for my recent order please",speak_to_agent
+"Hey, Connect me to customer support for the order I placed yesterday as soon as possible",speak_to_agent
+"Please, Let me speak to an agent for my recent order please",speak_to_agent
+"Kindly, Can I talk to a representative for order 123",speak_to_agent
+"Hey, I need human assistance",speak_to_agent
+"Hey, I want to talk to a human for order 123 as soon as possible",speak_to_agent
+"Hello, I need human assistance for my recent order as soon as possible",speak_to_agent
+"Hey, Let me speak to an agent right now",speak_to_agent
+"Please, Connect me to customer support for the order I placed yesterday if possible",speak_to_agent
+"Hey, I need human assistance for order 123 if possible",speak_to_agent
+"Hey, Connect me to customer support for my last purchase",speak_to_agent
+Connect me to customer support for order 123 as soon as possible,speak_to_agent
+"Hello, I need human assistance right now",speak_to_agent
+"Hey, I want to talk to a human for the order I placed yesterday if possible",speak_to_agent
+"Please, Connect me to customer support for order 123 please",speak_to_agent
+Let me speak to an agent for the order I placed yesterday as soon as possible,speak_to_agent
+"Please, Connect me to customer support right now",speak_to_agent
+"Please, I need human assistance for my recent order today",speak_to_agent
+"Hi, I want to talk to a human for my last purchase right now",speak_to_agent
+"Hi, Let me speak to an agent for my recent order",speak_to_agent
+"Hello, Can I talk to a representative for order 123 if possible",speak_to_agent
+I need human assistance right now,speak_to_agent
+I need human assistance for my recent order please,speak_to_agent
+"Kindly, Let me speak to an agent for my last purchase as soon as possible",speak_to_agent
+"Please, Let me speak to an agent for my recent order if possible",speak_to_agent
+"Please, Can I talk to a representative please",speak_to_agent
+"Please, Let me speak to an agent for my last purchase please",speak_to_agent
+"Hi, Let me speak to an agent for the order I placed yesterday",speak_to_agent
+"Kindly, I need human assistance right now",speak_to_agent
+Connect me to customer support for order 123 if possible,speak_to_agent
+"Hey, Can I talk to a representative for the order I placed yesterday right now",speak_to_agent
+"Kindly, I want to talk to a human for my last purchase if possible",speak_to_agent
+"Kindly, Connect me to customer support today",speak_to_agent
+"Kindly, I want to talk to a human for my recent order as soon as possible",speak_to_agent
+"Hello, Can I talk to a representative for order 123 as soon as possible",speak_to_agent
+"Hi, Can I talk to a representative for my recent order today",speak_to_agent
+"Hey, Connect me to customer support for the order I placed yesterday",speak_to_agent
