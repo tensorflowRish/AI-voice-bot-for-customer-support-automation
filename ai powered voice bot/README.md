@@ -93,7 +93,7 @@ Speech recognition is implemented using **OpenAI Whisper**.
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/AI-voice-bot-for-customer-support-automation.git
+git clone https://github.com/tensorflowRish/AI-voice-bot-for-customer-support-automation.git
 ```
 
 Move into the project directory:
